@@ -1,6 +1,6 @@
-# computer-science
-🎓 Path to a free education in Computer Science!
+# Computer Science
 
+🎓 Path to a free education in Computer Science, Kottans projects.
 
 <a href="https://github.com/open-source-society/computer-science">
   <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
@@ -17,3 +17,17 @@
 [CS search github](https://github.com/search?utf8=✓&q=computer+science&type=)
 
 [JavaScript Path](https://github.com/javascript-society/javascript-path)
+
+# Kottnas:
+
+  * [Ruby](https://github.com/Kottans/ruby-slides)
+  * [C#](https://github.com/Kottans/csharp-slides)
+  * [Erlang](https://github.com/Kottans/erlcourses)
+  * [Java](https://github.com/Kottans/java-slides)
+  * [Web](https://github.com/Kottans/web)
+
+### [Ongoing projects](https://github.com/Kottans/kottans-ongoing-projects/issues)
+  * [Kyiv AI:MA study group](https://github.com/Kottans/kottans-ongoing-projects/issues/12)
+  * [Offline math club](https://github.com/Kottans/kottans-ongoing-projects/issues/8)
+  * [Lviv Ruby course](https://github.com/Kottans/kottans-ongoing-projects/issues/11)
+  * [JS Course](https://github.com/Kottans/kottans-ongoing-projects/issues/7)
