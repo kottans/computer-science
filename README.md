@@ -14,6 +14,8 @@
 
 [List of Computer Science courses with video lectures.](https://github.com/Developer-Y/cs-video-courses)
 
+[teachyourselfcs.com](https://teachyourselfcs.com/)
+
 [CS search github](https://github.com/search?utf8=✓&q=computer+science&type=)
 
 [JavaScript Path](https://github.com/javascript-society/javascript-path)
