@@ -29,7 +29,4 @@
   * [Web](https://github.com/Kottans/web)
 
 ### [Ongoing projects](https://github.com/Kottans/kottans-ongoing-projects/issues)
-  * [Kyiv AI:MA study group](https://github.com/Kottans/kottans-ongoing-projects/issues/12)
-  * [Offline math club](https://github.com/Kottans/kottans-ongoing-projects/issues/8)
-  * [Lviv Ruby course](https://github.com/Kottans/kottans-ongoing-projects/issues/11)
-  * [JS Course](https://github.com/Kottans/kottans-ongoing-projects/issues/7)
+  * [JS Course](https://github.com/Kottans/kottans-ongoing-projects/issues/22)
