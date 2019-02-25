@@ -24,8 +24,6 @@ Coursese|Duration|Effort
 
 [teachyourselfcs.com](https://teachyourselfcs.com/)
 
-[CS search github](https://github.com/search?utf8=✓&q=computer+science&type=)
-
 [JavaScript Path](https://github.com/javascript-society/javascript-path)
 
 ### [Ongoing projects](https://github.com/Kottans/kottans-ongoing-projects/issues)
