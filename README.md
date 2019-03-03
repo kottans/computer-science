@@ -1,5 +1,7 @@
 [![Awesome][icon-awesome]][awesome]
 [![OSSU][icon-ossu]][ossu]
+
+[Our chat in telegram](https://t.me/kottans_cs)
 &nbsp;&nbsp;&nbsp;
 
 # Computer Science
