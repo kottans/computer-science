@@ -4,6 +4,8 @@
 [Our chat in telegram](https://t.me/kottans_cs)
 &nbsp;&nbsp;&nbsp;
 
+[![Short introduction to the course](https://i.ytimg.com/vi/EoggF4itgGc/2.jpg?time=1551635202104)](https://www.youtube.com/watch?v=Q4wSbnmchq0)
+
 # Computer Science
 
 🎓 Path to a free education in Computer Science, Kottans projects.
