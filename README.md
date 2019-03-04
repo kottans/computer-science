@@ -1,12 +1,14 @@
 [![Awesome][icon-awesome]][awesome]
 [![OSSU][icon-ossu]][ossu]
 
+# Computer Science
+
 [Our chat in telegram](https://t.me/kottans_cs)
 &nbsp;&nbsp;&nbsp;
 
-[![Short introduction to the course](https://i.ytimg.com/vi/EoggF4itgGc/2.jpg?time=1551635202104)](https://www.youtube.com/watch?v=Q4wSbnmchq0)
+## Short video explanation what we'll do with this curicullum
 
-# Computer Science
+[![Short introduction to the course](https://i.ytimg.com/vi/EoggF4itgGc/2.jpg?time=1551635202104)](https://www.youtube.com/watch?v=Q4wSbnmchq0)
 
 🎓 Path to a free education in Computer Science, Kottans projects.
 
