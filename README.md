@@ -8,7 +8,7 @@
 
 ## Short video explanation what we'll do with this curicullum
 
-[![Short introduction to the course](https://i9.ytimg.com/vi/Q4wSbnmchq0/sddefault.jpg?sqp=CMCH9uMF&rs=AOn4CLD6LGMTksOg3m20Mr7UlOau_Vm9SA&time=1551729789977)](https://www.youtube.com/watch?v=Q4wSbnmchq0)
+[![Short introduction to the course](https://i9.ytimg.com/vi/Q4wSbnmchq0/sddefault.jpg?sqp=CMz0-uMF&rs=AOn4CLBlr8AymdykDTncyYwgFwxvfZJbVw&time=1551809207449)](https://www.youtube.com/watch?v=Q4wSbnmchq0)
 
 🎓 Path to a free education in Computer Science, Kottans projects.
 
