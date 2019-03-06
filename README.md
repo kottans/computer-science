@@ -1,10 +1,9 @@
 [![Awesome][icon-awesome]][awesome]
 [![OSSU][icon-ossu]][ossu]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Telegram][icon-chat]][chat]
 
 # Computer Science
-
-[Our chat in telegram](https://t.me/kottans_cs)
-&nbsp;&nbsp;&nbsp;
 
 ## Short video explanation what we'll do with this curicullum
 
@@ -431,6 +430,8 @@ You can change the status of your board to be *public* or *private*.
 
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome]: https://github.com/sindresorhus/awesome#front-end-development
+[icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
 
 [icon-ossu]: https://img.shields.io/badge/OSSU-computer--science-blue.svg
 [ossu]: https://github.com/open-source-society/computer-science
+[chat]: https://t.me/kottans_cs
