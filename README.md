@@ -1,6 +1,8 @@
+[![Kottans-CS][icon-kottans-cs]][kottans-cs]
+&nbsp;&nbsp;&nbsp;
 [![Awesome][icon-awesome]][awesome]
 [![OSSU][icon-ossu]][ossu]
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 [![Telegram][icon-chat]][chat]
 
 # Computer Science
@@ -431,7 +433,9 @@ You can change the status of your board to be *public* or *private*.
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome]: https://github.com/sindresorhus/awesome#front-end-development
 [icon-chat]: https://img.shields.io/badge/chat-on%20telegram-blue.svg
+[icon-kottans-cs]: https://img.shields.io/badge/%3D(%5E.%5E)%3D-computer%20science-yellow.svg
 
 [icon-ossu]: https://img.shields.io/badge/OSSU-computer--science-blue.svg
 [ossu]: https://github.com/open-source-society/computer-science
 [chat]: https://t.me/kottans_cs
+[kottans-cs]: https://github.com/kottans/computer-science
