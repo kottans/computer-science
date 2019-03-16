@@ -7,6 +7,8 @@
 
 # Computer Science
 
+[Join our Monday call at 20:00 GMT +2](https://zoom.us/u/abjNPd9JRO)
+
 ## Short video explanation what we'll do with this curicullum
 
 [![Short introduction to the course](sddefault.jpg)](https://www.youtube.com/watch?v=Q4wSbnmchq0)
