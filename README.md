@@ -7,7 +7,7 @@
 
 # Computer Science
 
-[Join our Monday call at 20:00 GMT +2](https://zoom.us/j/791548910)
+[Join our Monday call at 21:00 GMT+2](https://zoom.us/j/791548910)
 
 ## Short video explanation what we'll do with this curicullum
 
