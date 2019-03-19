@@ -3,7 +3,7 @@
 [![Awesome][icon-awesome]][awesome]
 [![OSSU][icon-ossu]][ossu]
 &nbsp;&nbsp;&nbsp;
-[![Discord][icon-chat]][chat]
+[Discord chat][chat]
 
 # Computer Science
 
