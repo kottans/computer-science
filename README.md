@@ -3,7 +3,7 @@
 [![Awesome][icon-awesome]][awesome]
 [![OSSU][icon-ossu]][ossu]
 &nbsp;&nbsp;&nbsp;
-[![Telegram][icon-chat]][chat]
+[![Discord][icon-chat]][chat]
 
 # Computer Science
 
@@ -439,5 +439,5 @@ You can change the status of your board to be *public* or *private*.
 
 [icon-ossu]: https://img.shields.io/badge/OSSU-computer--science-blue.svg
 [ossu]: https://github.com/open-source-society/computer-science
-[chat]: https://t.me/kottans_cs
+[chat]: https://discord.gg/bQf99Ke
 [kottans-cs]: https://github.com/kottans/computer-science
