@@ -7,7 +7,7 @@
 
 # Computer Science
 
-[Join our Monday call at 21:00 GMT+2](https://zoom.us/j/791548910)
+We have our weeekley calls on Monday at 21:00 GMT+2 in Discord, just join it!
 
 ## Short video explanation what we'll do with this curicullum
 
